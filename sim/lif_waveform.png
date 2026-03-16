@@ -1,0 +1,7 @@
+## Simulation Waveform
+
+The neuron integrates input current until the membrane potential
+reaches the firing threshold, generating a spike and entering
+a refractory period.
+
+![waveform](sim/lif_waveform.png)
